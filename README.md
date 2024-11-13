@@ -1,2 +1,2 @@
-# Laboratoe11
+# Laborator11
 Repozitoriu la distanță
